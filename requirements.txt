@@ -1,0 +1,9 @@
+discord.py
+bs4
+requests
+groq
+pillow
+python-dotenv
+colorlog
+yt-dlp
+pylast
